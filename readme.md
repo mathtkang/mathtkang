@@ -86,6 +86,8 @@
 - 웹 백앤드 및 프론트앤드 개발 능력이 있으신 분
 - 컨텐츠 기획에 관심이 있으신 분 -->
 
+<br>
+
 ## <b>😃 I wanna be a developer like ...</b>
 
 - 팀원들과 꾸준히 소통하며 원활한 협업을 도모하는 개발자
@@ -93,33 +95,28 @@
 - '왜?' 라는 궁금증을 가지며 스스로 궁금증을 해결해나가는 습관을 가진 개발자
 - 매일의 루틴으로 쌓이는 실력을 신뢰하며 점진적 발전을 추구하는 개발자
 
-
-## 📫 How to reach me ...
-
-### MY WEBSITE :
-
-<div>
-  <a href="https://github.com/mathtkang"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"/></a>&nbsp
-  <a href="https://kkangsg.tistory.com"><img src="https://img.shields.io/badge/my tistory-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp
-  <a href="https://blog.naver.com/sy7434"><img src="https://img.shields.io/badge/my blog-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp
-
-</div>
-
-### EMAIL ME :
-
-<div>
-   <a href="mailto:ksge1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ksge1124@gmail.com"/></a>&nbsp
-   <a href="mailto:sy7434@naver.com"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat&logo=Naver&logoColor=white&link=sy7434@naver.com"/></a>&nbsp
-</div>
-
-### Direct Message ME :
-
-<div>
-   <a href="https://www.instagram.com/sgaeng.kang/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/></a>&nbsp
-   <a href="https://www.linkedin.com/in/seokyoung-kang-95abb41b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp
-</div>
 <br>
 
+## <b>📫 How to reach me ...</b>
+
+- ### MY WEBSITE :
+    <div>
+    <a href="https://github.com/mathtkang"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"/></a>&nbsp
+    <a href="https://kkangsg.tistory.com"><img src="https://img.shields.io/badge/my tistory-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp
+    <a href="https://blog.naver.com/sy7434"><img src="https://img.shields.io/badge/my blog-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp
+    </div>
+
+- ### EMAIL ME :
+    <div>
+    <a href="mailto:ksge1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ksge1124@gmail.com"/></a>&nbsp
+    <a href="mailto:sy7434@naver.com"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat&logo=Naver&logoColor=white&link=sy7434@naver.com"/></a>&nbsp
+    </div>
+
+- ### Direct Message ME :
+    <div>
+    <a href="https://www.instagram.com/sgaeng.kang/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/></a>&nbsp
+    <a href="https://www.linkedin.com/in/seokyoung-kang-95abb41b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp
+    </div>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmathtkang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
