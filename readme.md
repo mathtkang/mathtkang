@@ -8,7 +8,7 @@
 <!-- ![Most Used Language](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathtkang&hide=css,html&langs_count=4&theme=onedark) -->
 
 
-## <b>👋 Hi there, I'm growthic developer sgaeng!</b>
+## <b>👋 Hi there, I'm growthful developer sgaeng!</b>
 
 - Technical Content Developer @Elice <em>(2022.01 ~ 2022.07)</em>
 - Hannam Univ. Department of Mathematics Education and Computer Engineering <em>(2017.03 ~ 2022.08)</em>
