@@ -59,7 +59,7 @@
 
 - Python Frameworks(Django, FastAPI, Flask 등)을 이용한 웹 백엔드 개발
 - 딥러닝 등의 AI 관련 기술
-- 음악, 환경세팅과 관련된 웹 또는 앱 개발
+- 음악, 성장을 위한 프로세스와 관련된 웹 또는 앱 개발
 
 <br>
 
