@@ -92,8 +92,9 @@
     <div>
     <a href="https://github.com/mathtkang"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"/></a>&nbsp
     <a href="https://kkangsg.tistory.com"><img src="https://img.shields.io/badge/my tistory-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp
-<!--     <a href="https://blog.naver.com/sy7434"><img src="https://img.shields.io/badge/my blog-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp -->
     </div>
+
+<!--     <a href="https://blog.naver.com/sy7434"><img src="https://img.shields.io/badge/my blog-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp -->
 
 - ### EMAIL ME :
     <div>
