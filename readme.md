@@ -10,6 +10,7 @@
 
 ## <b>👋 Hi there, I'm growthful developer sgaeng!</b>
 
+- Backend Developer @TOKTOKHAN-DEV <em>(2024.01 ~ )</em>
 - Technical Content Developer @Elice <em>(2022.01 ~ 2022.07)</em>
 - Hannam Univ. Department of Mathematics Education and Computer Engineering <em>(2017.03 ~ 2022.08)</em>
 
@@ -24,9 +25,9 @@
     <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=black"/> -->
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=green"/>
     <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=FastAPI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=green"/>
     <!-- <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"/> -->
     <!-- <img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>
